@@ -102,6 +102,19 @@ tr td:last-child {
     flow-wrap: wrap;
 } */
 
+.header {
+    position: fix;
+    width: 100%;
+    margin: 0 auto;
+    background: black;
+    height: 70px;
+}
+
+.container>.header__inner {
+    background: black;
+    max-width: 1100px;
+}
+
 .wrapper-bottom {
     margin-top: 30px;
     min-width: 1100px;
