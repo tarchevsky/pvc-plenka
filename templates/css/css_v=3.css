@@ -191,12 +191,19 @@ tr td:last-child {
     width: 100%
 }
 
-.block-logo {
+/* Block Logo */
+
+/* .block-logo {
     width: 180px;
 }
 
 .block-logo img {
     width: 100%
+} */
+
+.logo {
+    font-size: 15px;
+    color: white;
 }
 
 /* Menu */
